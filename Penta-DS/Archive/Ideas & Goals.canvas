@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b2da5cd6d3c070d1","type":"text","text":"Alpha - Inbox & Outbox:\n","x":-660,"y":-1040,"width":440,"height":260,"color":"1"},
+		{"id":"adb2fe2a55d99bd6","type":"text","text":"Beta - Core Cycles:\n","x":-60,"y":-1040,"width":440,"height":260,"color":"2"},
+		{"id":"1f719c6722f5558f","type":"text","text":"V1 - Base App:\n","x":-60,"y":-640,"width":440,"height":260,"color":"3"},
+		{"id":"aa03aee38a9fd258","type":"text","text":"V2 - Mobile App:\n","x":-660,"y":-640,"width":440,"height":260,"color":"4"},
+		{"id":"f299e6b28b8f7839","type":"text","text":"V3 - Integrations:\n","x":-660,"y":-260,"width":440,"height":260,"color":"5"},
+		{"id":"2f2bd5bfa5bed6f1","type":"text","text":"V4 - AI:\n","x":-60,"y":-260,"width":440,"height":260,"color":"6"}
+	],
+	"edges":[
+		{"id":"9c71bbf0ff8f2ac2","fromNode":"adb2fe2a55d99bd6","fromSide":"bottom","toNode":"1f719c6722f5558f","toSide":"top","color":"2"},
+		{"id":"7327f65f208ae6b4","fromNode":"aa03aee38a9fd258","fromSide":"bottom","toNode":"f299e6b28b8f7839","toSide":"top","color":"4"},
+		{"id":"ad8b9b90e5ce8500","fromNode":"b2da5cd6d3c070d1","fromSide":"right","toNode":"adb2fe2a55d99bd6","toSide":"left","color":"1"},
+		{"id":"aeda79a070165650","fromNode":"f299e6b28b8f7839","fromSide":"right","toNode":"2f2bd5bfa5bed6f1","toSide":"left","color":"5"},
+		{"id":"aecbcfca6556e5f9","fromNode":"1f719c6722f5558f","fromSide":"left","toNode":"aa03aee38a9fd258","toSide":"right","color":"3"}
+	]
+}
