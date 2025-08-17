@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"a1258a054d34e98b","x":-345,"y":-380,"width":745,"height":620,"color":"6","type":"text","text":"4U Rack: 5000 EGP"},
-		{"id":"58d1c2c365ff6f78","type":"text","text":"1 - server : 9000 EGP\n- 8 cores / 16 threads\n- 16gb ram\n- 8 bays x 3.5\"\n- 10 gig networking \n- SPF fiber (optional\n\n2 - Hard-drives:\n- 2 500gb ssd -> 2,500 EGP\n- 4 10tb HDD -> 4x8000 = 32,000 EGP","x":-320,"y":-320,"width":350,"height":340,"color":"1"},
-		{"id":"0e24015b191b443f","x":48,"y":-320,"width":333,"height":340,"color":"2","type":"text","text":"Proxmox Server:\n 1 - Truenas scale VM\n 2 - pfsense VM\n 3 - windows VM (optional)\n\n\n\n\n\n\n\nTotal Price = 34150 w/o HDD"},
+		{"id":"a1258a054d34e98b","type":"text","text":"4U Rack: 5000 EGP","x":-345,"y":-380,"width":745,"height":620,"color":"6"},
+		{"id":"58d1c2c365ff6f78","type":"text","text":"1 - server : 9000 EGP\n- 8 cores / 16 threads\n- 16gb ram\n- 8 bays x 3.5\"\n- 10 gig networking \n- SPF fiber (optional)\n\n2 - Hard-drives:\n- 2 500gb ssd -> 2,500 EGP\n- 4 10tb HDD -> 4x8000 = 32,000 EGP","x":-320,"y":-320,"width":350,"height":340,"color":"1"},
+		{"id":"0e24015b191b443f","type":"text","text":"Proxmox Server:\n 1 - Truenas scale VM\n 2 - pfsense VM\n 3 - windows VM (optional)\n 4 - Batocera game emulator\n\n\n\n\n\n\n\nTotal Price = 34150 w/o HDD","x":48,"y":-320,"width":333,"height":340,"color":"2"},
 		{"id":"3ed4d82e36ca1d89","type":"text","text":"24 port POE Switch gigabit : 5000 EGP\n600M Cat6 cables : 2 x 4800 = 9600 EGP\n24 port CAT 6 Patch panel: 2,200 EGP\n100 RJ45 pack + boot covers : 300 EGP\n12 dual wall socket: 12 x 75 = 850 EGP","x":-320,"y":40,"width":700,"height":160,"color":"5"}
 	],
 	"edges":[]
